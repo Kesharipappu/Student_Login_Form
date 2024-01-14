@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="main.qml">../../New folder (2)/Student_Login_Form/Student_Login_Form/main.qml</file>
+    </qresource>
+</RCC>
